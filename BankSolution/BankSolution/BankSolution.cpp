@@ -510,6 +510,9 @@ void GoBackToTransactionsMenue() {
 	cout << "\n\nPress any key to go back to Transactions Menue...";
 	system("pause>0");
 	ShowTransactionsMenue();
+
+
+	
 }
 
 void PerfromTranactionsMenueOption(enTransactionsMenueOptions TransactionMenueOption)
