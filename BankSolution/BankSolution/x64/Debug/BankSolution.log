@@ -1,0 +1,3 @@
+﻿  BankSolution.cpp
+D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(23,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(380,2): error C3861: 'PrintClientRecordBalanceLine': identifier not found
