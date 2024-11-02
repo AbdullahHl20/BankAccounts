@@ -1,3 +1,9 @@
 ﻿  BankSolution.cpp
-D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(23,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(380,2): error C3861: 'PrintClientRecordBalanceLine': identifier not found
+D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(68,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(88,1): warning C4715: 'SplitString': not all control paths return a value
+D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(703,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(822,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(799,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(734,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+D:\Trraining c++\Banksolution\BankSolution\BankSolution\BankSolution.cpp(767,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  BankSolution.vcxproj -> D:\Trraining c++\Banksolution\BankSolution\x64\Debug\BankSolution.exe
